@@ -9,8 +9,6 @@
 8.  where they endure the *ordeal*.
 9.  They take possession of their *reward* and
 10. are pursued on *the road back* to the ordinary world.
-11. They cross the third threshold, experience a *resurrection*, and are
-    transformed by the experience.
-12. They *return with the elixir*, a boon or treasure to benefit the ordinary
-    world.
+11. They cross the third threshold, experience a *resurrection*, and are transformed by the experience.
+12. They *return with the elixir*, a boon or treasure to benefit the ordinary world.
 

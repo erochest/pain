@@ -25,8 +25,7 @@
 
 ## Worksheet
 
-This is taken from `Blog Series: Creating Memorable Characters Part I
-<http://fictionfundamentals.com/2007/07/26/blog-series-creating-memorable-characters-part-i/>`_.
+This is taken from [Blog Series: Creating Memorable Characters Part I](http://fictionfundamentals.com/2007/07/26/blog-series-creating-memorable-characters-part-i/).
 
 ### Physical Description
 
@@ -98,32 +97,25 @@ This is taken from `Blog Series: Creating Memorable Characters Part I
 
 #### Meaningful Past
 
-*One traumatic event from the character's past that shaped his or her future.
-To connect this event to my own life, it may--while being a different
-event--have the same emotional impact.*
+*One traumatic event from the character's past that shaped his or her future. To connect this event to my own life, it may--while being a different event--have the same emotional impact.*
 
 #### Need
 
-*The wound should leave the character with a need so intense that he or she
-will be driven to fulfill it. These needs are universal, such as belonging,
-love, family, self-worth, or faith.*
+*The wound should leave the character with a need so intense that he or she will be driven to fulfill it. These needs are universal, such as belonging, love, family, self-worth, or faith.*
 
 #### Weakness
 
-*The wound should leave the character with a weakness, a character flaw that
-seems out of the control or beyond the full awareness of the character.*
+*The wound should leave the character with a weakness, a character flaw that seems out of the control or beyond the full awareness of the character.*
 
 #### Strength
 
-*The wound may also gift the character with a heroic strength that increases
-his or her determination to fill the need and reach the plot goal.*
+*The wound may also gift the character with a heroic strength that increases his or her determination to fill the need and reach the plot goal.*
 
 ## Notes on Characterization
 
 ### Archetypes
 
-While each character will primarily be one of these, he or she will also
-become different archetypes at different points in the story.
+While each character will primarily be one of these, he or she will also become different archetypes at different points in the story.
 
 #### Preparation
 
@@ -170,29 +162,20 @@ Fool
 
 * Make sure he or she is fully developed;
 * It's more believable to make them weak than purely evil;
-* May believe in similar ends as the protagonist, but have different ways of
-  reaching them;
+* May believe in similar ends as the protagonist, but have different ways of reaching them;
 * Solid motivations.
 
 #### Romantic Interest
 
-* Shows the protagonist's story yearning through the intimate relationship,
-  bringing the inner story to the forefront;
-* Shows a private and personal side of your protagonist that would not
-  otherwise become known;
-* Provides the opportunity for a steamy sex scene to satisfy the needs of
-  your story's genre;
-* Creates conflict or even crisis at times when the external plot is at a
-  low point of narrative tension;
-* Acts as a confidante to allow the protagonist to share his emotions and
-  quandaries through active scenes and dialogue;
-* Creates a love bond that could be threatened by the antagonist to raise
-  the stakes of the story;
-* Shows difficulty and crisis in the romantic interest to add pressure for
-  change on the character;
+* Shows the protagonist's story yearning through the intimate relationship, bringing the inner story to the forefront;
+* Shows a private and personal side of your protagonist that would not otherwise become known;
+* Provides the opportunity for a steamy sex scene to satisfy the needs of your story's genre;
+* Creates conflict or even crisis at times when the external plot is at a low point of narrative tension;
+* Acts as a confidante to allow the protagonist to share his emotions and quandaries through active scenes and dialogue;
+* Creates a love bond that could be threatened by the antagonist to raise the stakes of the story;
+* Shows difficulty and crisis in the romantic interest to add pressure for change on the character;
 * Acts as a sounding board or mentor for the protagonist's decisions;
-* Develops a full subplot with an additional point of view for the intimate
-  other, also allowing for characterization of the protagonist.
+* Develops a full subplot with an additional point of view for the intimate other, also allowing for characterization of the protagonist.
 
 #### Allies or Main Characters
 
