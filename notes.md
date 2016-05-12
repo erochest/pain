@@ -1,3 +1,13 @@
+# Date: Thu, 12 May 2016 06:36:54 -0400
+
+## Some Themes Coming Up
+
+* secrets
+* public/private
+* death
+* living a lie
+* being alone
+
 # Date: Wed, 11 May 2016 06:26:51 -0400
 
 The pain is eternal.
